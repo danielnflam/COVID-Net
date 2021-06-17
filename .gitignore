@@ -30,4 +30,5 @@ train_COVIDx2.txt
 eval_ensemble.py
 train_split_v3.txt
 CXR4-A/*
+CXR2_202103/*
 create_ricord_dataset/ricord_images/*
